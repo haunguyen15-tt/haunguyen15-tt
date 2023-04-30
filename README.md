@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haunguyen15-tt&label=Profile%20views&color=0e75b6&style=flat" alt="haunguyen15-tt" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, NestJS, React Native and more**
+- 🌱 I’m currently learning **ReactJS, ExpressJS, NestJS, React Native and more**
 
 - 📫 How to reach me **ngochautk123@gmail.com**
 
