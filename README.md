@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ngochautk123@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/drive/folders/1uIhHGTj1WiSUJ8YyammVqvRu9KxAPdmb)
-
 - ⚡ Fun fact: **I think I'm a happy person... Except when I'm sad :D**
 
 <h3 align="left">Connect with me:</h3>
