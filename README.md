@@ -76,7 +76,6 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align=center>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=haunguyen15-tt&show_icons=true&locale=en&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true" alt="haunguyen15-tt" /></p>
-  <span><img src="https://github-readme-stats.vercel.app/api?username=haunguyen15-tt&show_icons=true&locale=en&theme=react&border_color=61dafb&hide_border=true" alt="haunguyen15-tt" /></span>
-  <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=haunguyen15-tt&theme=react&border_color=61dafb&hide_border=true" alt="haunguyen15-tt" /></span>
+  <span><img  width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haunguyen15-tt&show_icons=true&locale=en&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true" alt="haunguyen15-tt" /></span>
+  <span><img align="right" src="https://github-readme-stats.vercel.app/api?username=haunguyen15-tt&show_icons=true&locale=en&theme=react&border_color=61dafb&hide_border=true" alt="haunguyen15-tt" /></span>
 </div>
