@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img width="800"  src="https://media.licdn.com/dms/image/C4E12AQHohaaJm6qNNw/article-cover_image-shrink_600_2000/0/1630526455370?e=1687996800&v=beta&t=PgjbIFKkhjFCSIRod2qVqew1MeEHRWTpe0-r-xt-vVw">
-</p>
-
-<h1 align="center">Hi 👋, I'm Hau Nguyen Ngoc</h1>
+<h1 align="center">Hi there👋, I'm Hau Nguyen Ngoc</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 
