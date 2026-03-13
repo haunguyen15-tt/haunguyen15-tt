@@ -6,7 +6,7 @@ Full stack Developer
 A passionate developer with a solid foundation in various programming languages and web development technologies. With deep expertise in JavaScript, TypeScript, and Python, I can build and maintain web applications ranging from simple to complex.
 
 * 🌍  I'm based in Da Nang, VN
-* ✉️  Can contact me at [ngochautk123@gmail.com](mailto:ngochautk123@gmail.com)    
+* ✉️  Can contact me at [hau.nguyenngoc0105@gmail.com](mailto:hau.nguyenngoc0105@gmail.com)    
 * 🧠  I'm focused on React, Next, Vue, Nest, MongoDB, PostgreSQL
 
 ## Languages and Tools:
